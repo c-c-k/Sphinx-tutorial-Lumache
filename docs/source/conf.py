@@ -26,3 +26,8 @@ language = 'en'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+# -- Options for EPUB output -------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#epub-options
+
+epub_show_urls = 'footnote'
