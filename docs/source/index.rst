@@ -20,3 +20,9 @@ Contents
 .. toctree::
 
    usage
+   misc
+
+Miscellaneous
+-------------
+
+example of a cross-reference to :cpp:type:`CustomList`.
