@@ -23,6 +23,7 @@ Contents
    installation
    usage_manual
    usage_autodoc
+   usage_autosummary
    misc
 
 Miscellaneous
